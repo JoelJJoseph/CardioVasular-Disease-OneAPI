@@ -1,3 +1,6 @@
+ ![image](https://miro.medium.com/v2/resize:fit:828/0*0qzOhBue7BY3XaIw.gif)
+
+
 # INSPIRATION ![image](https://user-images.githubusercontent.com/72274851/218500470-ec078b99-0a50-4b06-a2df-c09e47ecc187.png)
 
 The main cause of mortality and morbidity globally is cardiovascular disease (CVD). Early CVD diagnosis and detection can greatly enhance patient outcomes and lower healthcare expenses. The development of individualized treatment plans and the prediction of CVD events have both shown potential when using machine learning (ML) algorithms.
@@ -51,7 +54,7 @@ A predictive model that can accurately classify individuals into groups with and
 
 ✅Comparison of model performance: You would have learned how to compare the performance of different models using appropriate statistical tests or visualizations. This can help you choose the best model for the given problem.
 
-✅Collaboration: Building a project like this likely required collaboration with a team of experts in various fields, such as soil science, machine learning, and data analysis, and I likely learned the importance of working together to achieve common goals.
+✅Collaboration: Building a project like this likely required collaboration with a team of experts in various fields, such as medical science, machine learning, and data analysis, and I likely learned the importance of working together to achieve common goals.
 
 These are just a few examples of the knowledge and skills that i likely gained while building this project. 
 Overall, building a crop recommendation application is a challenging and rewarding experience that requires a combination of technical expertise and agricultural knowledge.
